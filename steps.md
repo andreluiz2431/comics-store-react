@@ -34,7 +34,7 @@
 
 ## Etapa 6: Finalização e Estilização
 - [x] Aplicar estilização fina e responsividade a todos os componentes e páginas
-- [ ] Adicionar animações e transições sutis para melhorar a UX
+- [x] Adicionar animações e transições sutis para melhorar a UX
 - [ ] Criar o arquivo `README.md` final com a descrição do projeto e instruções
 
 ## Etapa 7: Conclusão
