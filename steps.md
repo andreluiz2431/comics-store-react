@@ -35,7 +35,7 @@
 ## Etapa 6: Finalização e Estilização
 - [x] Aplicar estilização fina e responsividade a todos os componentes e páginas
 - [x] Adicionar animações e transições sutis para melhorar a UX
-- [ ] Criar o arquivo `README.md` final com a descrição do projeto e instruções
+- [x] Criar o arquivo `README.md` final com a descrição do projeto e instruções
 
 ## Etapa 7: Conclusão
 - [ ] Realizar um commit final com a mensagem "build: finaliza desenvolvimento do projeto comics-store-react"
