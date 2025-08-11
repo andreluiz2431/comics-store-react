@@ -22,7 +22,7 @@
 
 ## Etapa 4: Páginas e Roteamento
 - [x] Configurar o roteamento principal no `App.jsx` com `react-router-dom`
-- [ ] Criar a página `ComicsListPage.jsx` para exibir a lista de quadrinhos
+- [x] Criar a página `ComicsListPage.jsx` para exibir a lista de quadrinhos
 - [ ] Criar a página `ComicDetailPage.jsx` para detalhes de um quadrinho
 - [ ] Criar a página `CartPage.jsx` para exibir o carrinho de compras
 
