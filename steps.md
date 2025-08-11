@@ -38,4 +38,4 @@
 - [x] Criar o arquivo `README.md` final com a descrição do projeto e instruções
 
 ## Etapa 7: Conclusão
-- [ ] Realizar um commit final com a mensagem "build: finaliza desenvolvimento do projeto comics-store-react"
+- [x] Realizar um commit final com a mensagem "build: finaliza desenvolvimento do projeto comics-store-react"
