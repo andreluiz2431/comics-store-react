@@ -27,7 +27,7 @@
 - [x] Criar a página `CartPage.jsx` para exibir o carrinho de compras
 
 ## Etapa 5: Lógica e Integração
-- [ ] Implementar a lógica de busca e paginação na `ComicsListPage.jsx`
+- [x] Implementar a lógica de busca e paginação na `ComicsListPage.jsx`
 - [ ] Implementar a lógica de busca de detalhes na `ComicDetailPage.jsx`
 - [ ] Implementar a funcionalidade de adicionar/remover/atualizar itens no carrinho
 - [ ] Implementar a funcionalidade de cupom de desconto no carrinho
