@@ -6,7 +6,7 @@
 ## Etapa 1: Base do Projeto
 - [x] Inicializar projeto React com Vite e instalar dependências (`styled-components`, `react-router-dom`, `@reduxjs/toolkit`, `react-redux`, `axios`)
 - [x] Criar a estrutura de pastas padrão (`src/components`, `src/pages`, `src/store`, `src/services`, `src/styles`, `src/hooks`)
-- [ ] Configurar estilos globais com `styled-components` (`GlobalStyles.js`)
+- [x] Configurar estilos globais com `styled-components` (`GlobalStyles.js`)
 
 ## Etapa 2: API e Gerenciamento de Estado
 - [ ] Criar o serviço da API da Marvel em `src/services/marvelApi.js`
