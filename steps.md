@@ -21,7 +21,7 @@
 - [x] Criar componentes de UI genéricos (ex: `Button.jsx`)
 
 ## Etapa 4: Páginas e Roteamento
-- [ ] Configurar o roteamento principal no `App.jsx` com `react-router-dom`
+- [x] Configurar o roteamento principal no `App.jsx` com `react-router-dom`
 - [ ] Criar a página `ComicsListPage.jsx` para exibir a lista de quadrinhos
 - [ ] Criar a página `ComicDetailPage.jsx` para detalhes de um quadrinho
 - [ ] Criar a página `CartPage.jsx` para exibir o carrinho de compras
