@@ -17,7 +17,7 @@
 ## Etapa 3: Componentes Principais
 - [x] Criar o componente `Header.jsx`
 - [x] Criar o componente `ComicCard.jsx`
-- [ ] Criar o componente `Spinner.jsx` para feedback de carregamento
+- [x] Criar o componente `Spinner.jsx` para feedback de carregamento
 - [ ] Criar componentes de UI genéricos (ex: `Button.jsx`)
 
 ## Etapa 4: Páginas e Roteamento
