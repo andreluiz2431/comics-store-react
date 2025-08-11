@@ -10,7 +10,7 @@
 
 ## Etapa 2: API e Gerenciamento de Estado
 - [x] Criar o serviço da API da Marvel em `src/services/marvelApi.js`
-- [ ] Configurar a store do Redux Toolkit em `src/store/store.js`
+- [x] Configurar a store do Redux Toolkit em `src/store/store.js`
 - [ ] Criar o `comicsSlice` para gerenciar a busca e estado dos quadrinhos
 - [ ] Criar o `cartSlice` para gerenciar o estado do carrinho
 
