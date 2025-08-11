@@ -1,7 +1,7 @@
 # Plano de Desenvolvimento - comics-store-react
 
 ## Etapa 0: Configuração
-- [ ] Configurar ambiente inicial (Git, steps.md, GEMINI.md)
+- [x] Configurar ambiente inicial (Git, steps.md, GEMINI.md)
 
 ## Etapa 1: Base do Projeto
 - [ ] Inicializar projeto React com Vite e instalar dependências (`styled-components`, `react-router-dom`, `@reduxjs/toolkit`, `react-redux`, `axios`)
