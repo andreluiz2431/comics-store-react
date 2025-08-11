@@ -18,7 +18,7 @@
 - [x] Criar o componente `Header.jsx`
 - [x] Criar o componente `ComicCard.jsx`
 - [x] Criar o componente `Spinner.jsx` para feedback de carregamento
-- [ ] Criar componentes de UI genéricos (ex: `Button.jsx`)
+- [x] Criar componentes de UI genéricos (ex: `Button.jsx`)
 
 ## Etapa 4: Páginas e Roteamento
 - [ ] Configurar o roteamento principal no `App.jsx` com `react-router-dom`
