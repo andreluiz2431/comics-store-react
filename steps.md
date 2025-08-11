@@ -28,7 +28,7 @@
 
 ## Etapa 5: Lógica e Integração
 - [x] Implementar a lógica de busca e paginação na `ComicsListPage.jsx`
-- [ ] Implementar a lógica de busca de detalhes na `ComicDetailPage.jsx`
+- [x] Implementar a lógica de busca de detalhes na `ComicDetailPage.jsx`
 - [ ] Implementar a funcionalidade de adicionar/remover/atualizar itens no carrinho
 - [ ] Implementar a funcionalidade de cupom de desconto no carrinho
 
