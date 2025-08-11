@@ -33,7 +33,7 @@
 - [x] Implementar a funcionalidade de cupom de desconto no carrinho
 
 ## Etapa 6: Finalização e Estilização
-- [ ] Aplicar estilização fina e responsividade a todos os componentes e páginas
+- [x] Aplicar estilização fina e responsividade a todos os componentes e páginas
 - [ ] Adicionar animações e transições sutis para melhorar a UX
 - [ ] Criar o arquivo `README.md` final com a descrição do projeto e instruções
 
